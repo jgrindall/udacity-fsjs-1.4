@@ -2,3 +2,4 @@ dist
 node_modules
 .pynb_checkpoints
 src/.ipynb_checkpoints/index-checkpoint.ts
+**/.ipynb_checkpoints/**
